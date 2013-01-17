@@ -15,7 +15,7 @@ import java.nio.charset.Charset;
 
 import net.kazzz.felica.FeliCaException;
 import net.kazzz.felica.FeliCaLiteTag;
-import net.kazzz.felica.lib.R;
+import net.kazzz.R;
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Intent;

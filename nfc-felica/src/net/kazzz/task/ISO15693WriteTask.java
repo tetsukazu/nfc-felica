@@ -15,7 +15,7 @@ import java.nio.ByteBuffer;
 import java.nio.charset.Charset;
 import java.util.Locale;
 
-import net.kazzz.felica.lib.R;
+import net.kazzz.R;
 import net.kazzz.iso15693.ISO15693Exception;
 import net.kazzz.iso15693.ISO15693Tag;
 import android.app.Activity;

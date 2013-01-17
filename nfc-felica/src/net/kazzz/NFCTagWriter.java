@@ -20,7 +20,7 @@ import net.kazzz.felica.NfcFeliCaTagFragment;
 import net.kazzz.felica.command.ReadResponse;
 import net.kazzz.felica.lib.FeliCaLib.IDm;
 import net.kazzz.felica.lib.FeliCaLib.MemoryConfigurationBlock;
-import net.kazzz.felica.lib.R;
+import net.kazzz.R;
 import net.kazzz.iso15693.ISO15693Exception;
 import net.kazzz.iso15693.ISO15693Tag;
 import net.kazzz.iso15693.ISO15693TagFragment;
